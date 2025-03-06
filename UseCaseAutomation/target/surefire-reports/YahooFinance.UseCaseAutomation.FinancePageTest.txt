@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: YahooFinance.UseCaseAutomation.FinancePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.08 s -- in YahooFinance.UseCaseAutomation.FinancePageTest
